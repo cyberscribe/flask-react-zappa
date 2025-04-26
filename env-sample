@@ -1,0 +1,8 @@
+FLASK_APP=app.py
+FLASK_DEBUG=True
+FLASK_ENV=development
+TEMPLATES_AUTO_RELOAD=True
+SECRET_KEY=False
+BASE_URL_APP="http://127.0.0.1:5000/"
+BASE_URL_CDN="http://127.0.0.1:5000/static/"
+DATABASE_URL=sqlite:///data.db

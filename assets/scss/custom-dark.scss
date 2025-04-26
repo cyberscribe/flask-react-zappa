@@ -1,0 +1,17 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+    nav, .navbar, .card, .input-field input {
+        background-color: #1e1e1e !important;
+        color: #ffffff !important;
+    }
+
+    .btn {
+        background-color: #3949ab !important;
+    }
+
+    input, textarea, select {
+        background-color: #2e2e2e !important;
+        color: #ffffff !important;
+    }
+}

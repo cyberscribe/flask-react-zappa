@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+  	"jsx": "react",  	
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "sourceMap": true,
+  },
+  "include": ["assets/ts/main.ts"]
+}
